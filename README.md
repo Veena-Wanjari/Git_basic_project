@@ -8,6 +8,8 @@ Two projects on basics of Git are -
 The related txt files are - 
 1) disclaimer.txt
 2) meal-regimens.txt
+3) warranty.txt
+5) instructions.txt
 
 Basic Commands used -
 1) git init
